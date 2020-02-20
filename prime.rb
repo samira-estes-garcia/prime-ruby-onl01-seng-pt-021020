@@ -1,3 +1,3 @@
 def prime?(int)
-  if int
+  int / 2 == 0 ? false : true
 end
