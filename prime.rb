@@ -1,1 +1,2 @@
-
+def prime?(int)
+end
